@@ -177,10 +177,10 @@ metricsBindAddr: ""
 webhookBindPort:
 
 # webhookTLS specifies TLS cert/key for the webhook
-webhookTLS:
-  caCert:
-  cert:
-  key:
+# webhookTLS:
+#   caCert:
+#   cert:
+#   key:
 
 # array of namespace selectors for the webhook
 webhookNamespaceSelector:
